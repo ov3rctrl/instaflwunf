@@ -1,0 +1,4 @@
+colorful==0.5.4
+pyfiglet==0.8.post1
+seleniumbase==1.42.3
+
