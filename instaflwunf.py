@@ -5,7 +5,7 @@ import colorful as cf
 
 
 ov3rctrl = pyfiglet.figlet_format("                       by ov3rctrl", font = "mini" ) 
-banner = pyfiglet.figlet_format("\t \t \t \t \t \t  ---- \nIFOLLOW", font = "starwars" )  
+banner = pyfiglet.figlet_format("\t \t \t \t \t \t  ---- \nINSTAFLWUNF", font = "starwars" )  
   
 print(cf.bold_red(banner + ov3rctrl))
 print(cf.bold_green("""
