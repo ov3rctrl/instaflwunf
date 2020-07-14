@@ -1,14 +1,6 @@
-# InstaFlwUnf
-Instagram Follow Unfollow with SeleniumBase [Python]<br>
-by ov3rctrl
-## Install and Usage
+Önerilenler kısmından takip eder, takipten çıkar.
 
-Run pip3 install -r requirements.txt<br>
-After that,<br>
-Run pytest instaflwunf.py -s<br>
-Type ur username <br>
-Type ur passwd (u can check file, there is nothing wrong)<br>
-And then seleniumbase will open a new chrome window aaaand<br>
-JUST DO IT SELENIMBASE!  
- 
+Kullanımı için:
+https://ov3rctrl.xyz/python/instaflwunf/
 
+For non-Turkish use please change Takip Et to Follow, Takiptesin to Following, Takibi Bırak to Unfollow
